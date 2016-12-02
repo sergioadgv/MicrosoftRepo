@@ -1,4 +1,24 @@
+*{
+	margin:0;
+	padding:0; 
+}
+
+.maincontainer{
+	width:80%;
+	border: 1px black solid;
+	margin: 0 auto;
+
+}
+
 #speechtextinput{
-	width: 500px;
-	height: 500px;
+	width: 400px;
+	height: 400px;
+}
+
+.box{
+	width: 400px;
+	height: 400px;
+	border: 1px black solid;
+	margin:5px; 
+	display:inline-block;
 }
